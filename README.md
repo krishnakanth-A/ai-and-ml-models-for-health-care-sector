@@ -2,18 +2,6 @@
 this repository contains the present ai and ml models in heath care sector
 Medical AI/ML Open-Source Community Guidelines
 
-Code of Conduct
-
-- Be respectful and inclusive to all community members
-- Avoid harassment, discrimination, or offensive language
-- Keep discussions constructive and focused on medical AI/ML topics
-
-Communication Channels
-
-- GitHub Issues: for bug reports, feature requests, and discussions
-- GitHub Discussions: for general questions, feedback, and community engagement
-- Slack Channel: for real-time chat and collaboration (invite-only)
-
 Contribution Guidelines
 
 Coding Conventions
